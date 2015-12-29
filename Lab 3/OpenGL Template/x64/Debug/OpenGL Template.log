@@ -1,0 +1,18 @@
+﻿Build started 16/11/2015 14:04:26.
+     1>Project "C:\Users\reola\Documents\GitHub\3036\Lab 3\OpenGL Template\OpenGL Template.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Scene.cpp
+         Scene.cpp
+     1>c:\users\reola\documents\github\3036\lab 3\opengl template\bunny.h(35963): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+     1>c:\users\reola\documents\github\3036\lab 3\opengl template\bunny.h(35963): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+     1>c:\users\reola\documents\github\3036\lab 3\opengl template\bunny.h(141366): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+     1>c:\users\reola\documents\github\3036\lab 3\opengl template\bunny.h(141366): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\reola\Documents\GitHub\3036\Lab 3\x64\Debug\OpenGL Template.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\reola\Documents\GitHub\3036\Lab 3\x64\Debug\OpenGL Template.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\reola\Documents\GitHub\3036\Lab 3\x64\Debug\OpenGL Template.lib" /MACHINE:X64 x64\Debug\Scene.obj
+         x64\Debug\WindowingSystem.obj
+         OpenGL Template.vcxproj -> C:\Users\reola\Documents\GitHub\3036\Lab 3\x64\Debug\OpenGL Template.exe
+     1>Done Building Project "C:\Users\reola\Documents\GitHub\3036\Lab 3\OpenGL Template\OpenGL Template.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.83
